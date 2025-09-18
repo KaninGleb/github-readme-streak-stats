@@ -20,8 +20,5 @@
     "api/**/*": {
       "runtime": "vercel-php@0.7.3"
     }
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
